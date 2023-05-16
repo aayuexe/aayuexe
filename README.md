@@ -6,8 +6,6 @@ I am a front end developer.
 
 <p align="left"> <a href="https://twitter.com/humanfrombombay" target="blank"><img src="https://img.shields.io/twitter/follow/humanfrombombay?logo=twitter&style=for-the-badge" alt="humanfrombombay" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **taayush90@gmail.com**
